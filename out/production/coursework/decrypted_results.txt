@@ -1,3 +1,3 @@
 Key: giveme
-Decrypted message: Welcome to the Cryptography and Secure Development course 2024-2025, Ayush. This is the srC[M=r5 _:y')GR;uNu D\eMuJ)eZKeZ`\h|Ee&n~pMd31gcn=z-A_lQ2R&>`){${B@1{4~H8B7c$n<b*9qEu[L3[%)Zt)L=Z\3,$7=1?U%Jh+g1&D;_d\)DhU`('^yaj@Uw,fOa^Dstd7g}{AYxR[lGrA17-j5B{RH?iG}t`82Z]`Gt#m":HYS.+
+Decrypted message: Welcome to the Cryptography and Secure Development course 2024-2025, Ayush. This is the secret message (i.e., plaintext) for you to be decrypted. Please make sure that this message is only designed for you by checking whether your ID number 3043047 is correct :) Good luck!
 
