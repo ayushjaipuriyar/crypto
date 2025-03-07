@@ -12,11 +12,8 @@ public class KPA {
 
     public static void main(String[] args) {
         // Load the ciphertext and the passwords
-//        String ciphertext = loadCiphertext("ciphertext1.txt");
         List<String> passwords = loadPasswords("passwords");
-        String ciphertext = "b]h:m SI9euXf41r32ygPfc.FM@#oWdEPA_$RU*{PG\\xP(T|a,4]+Z@BmLW&uF[OSMH6#HtbOjDeVK%jd]zOFv\"\"!a+/Hc|#d\\<8!yMT Z'>sB:`UfggK4G%A^t,Nvc&Oq+RUq0CgjJZF:!pQ['X'k{]b9t,%IfU%8=Q<sbvx{J<K[/Ir>34vU%HX}6{XY$jHnE/n~,3JZsWvhve~hL,_rsiA[6_$Fps%[=UStmaE2rZp`;~s<c0$k/9oP;e8Gi9oAlss7|qjv{2iu";
-
-        // The known plaintext starts with "We"
+        String ciphertext = "b]h:m SI9euXf41r32ygPfc.FM@#oWdEPA_$RU*{PG\\xP(T|a,4]+Z@BmLW&uF[OSMH6#HtbOjDeVK%jd]zOFv\"!a+/Hc|#d\\<8!yMT Z'>sB:`UfggK4G%A^t,Nvc&Oq+RUq0CgjJZF:!pQ['X'k{]b9t,%IfU%8=Q<sbvx{J<K[/Ir>34vU%HX}6{XY$jHnE/n~,3JZsWvhve~hL,_rsiA[6_$Fps%[=UStmaE2rZp`;~s<c0$k/9oP;e8Gi9oAlss7|qjv{2iu";
         String knownPlaintextStart = "We";
 
         // List to store all the matching decrypted texts and corresponding keys
